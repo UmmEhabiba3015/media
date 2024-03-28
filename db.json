@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Celia Tillman",
+      "id": 1
+    },
+    {
+      "name": "Nettie Mohr DVM",
+      "id": 2
+    },
+    {
+      "name": "Ellis Blanda",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Cotton Chips",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Fresh Chair",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=18929",
+      "id": 11
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8227",
+      "id": 13
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93465",
+      "id": 15
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94604",
+      "id": 16
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=88784",
+      "id": 17
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=40880",
+      "id": 18
+    }
+  ]
+}
